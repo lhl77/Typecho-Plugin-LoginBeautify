@@ -105,9 +105,9 @@
 
 ### 背景效果
 
-| 纯色背景 | 图片背景 + 虚化 |
+| 图片背景 | 图片背景 + 虚化 |
 |:---:|:---:|
-| ![纯色背景](docs/images/bg-solid.png) | ![图片背景](docs/images/bg-image-blur.png) |
+| ![图片背景](docs/images/bg-image.png) | ![图片背景虚化](docs/images/bg-image-blur.png) |
 
 ### 设置页面
 
