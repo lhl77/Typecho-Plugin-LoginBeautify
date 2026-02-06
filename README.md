@@ -93,16 +93,6 @@
 |:---:|:---:|
 | ![亮色模式登录页](docs/images/login-light.png) | ![暗色模式登录页](docs/images/login-dark.png) |
 
-### 不同配色方案
-
-| 紫色 (默认) | 蓝色 | 粉色 |
-|:---:|:---:|:---:|
-| ![紫色配色](docs/images/color-purple.png) | ![蓝色配色](docs/images/color-blue.png) | ![粉色配色](docs/images/color-pink.png) |
-
-| 绿色 | 橙色 | 红色 |
-|:---:|:---:|:---:|
-| ![绿色配色](docs/images/color-green.png) | ![橙色配色](docs/images/color-orange.png) | ![红色配色](docs/images/color-red.png) |
-
 ### 背景效果
 
 | 图片背景 | 图片背景 + 虚化 |
