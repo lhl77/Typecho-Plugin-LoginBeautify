@@ -802,7 +802,7 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
     }
 
     html[data-lb-theme="light"] .lb-bg-overlay{
-    background: linear-gradient(180deg, rgba(255,255,255,.2), rgba(255,255,255,.4));
+    background: linear-gradient(180deg, rgba(255,255,255,0), rgba(255,255,255,0));
     }
 
     .lb-card{
