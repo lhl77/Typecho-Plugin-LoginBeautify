@@ -1236,9 +1236,7 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
       var n = (input.getAttribute('name') || '').toLowerCase();
       if (n.indexOf('name') !== -1 || n.indexOf('user') !== -1) {
         label.textContent = '用户名/邮箱';
-        if (!input.getAttribute('placeholder')) {
-          input.setAttribute('placeholder', '请输入用户名或邮箱');
-        }
+        input.setAttribute('placeholder', '用户名/邮箱');
       } else if (n.indexOf('pass') !== -1) {
         label.textContent = '密码';
         if (!input.getAttribute('placeholder')) {
