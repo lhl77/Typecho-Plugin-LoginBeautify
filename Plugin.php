@@ -802,11 +802,7 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
     }
 
     html[data-lb-theme="light"] .lb-bg-overlay{
-<<<<<<< HEAD
-    background: linear-gradient(180deg, rgba(255,255,255,.2), rgba(255,255,255,.4));
-=======
     background: linear-gradient(180deg, rgba(255,255,255,0), rgba(255,255,255,0));
->>>>>>> d92f08e1d9663834e4742c3ab025c808d5af06fa
     }
 
     .lb-card{
@@ -1240,13 +1236,7 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
       var n = (input.getAttribute('name') || '').toLowerCase();
       if (n.indexOf('name') !== -1 || n.indexOf('user') !== -1) {
         label.textContent = '用户名/邮箱';
-<<<<<<< HEAD
-        if (!input.getAttribute('placeholder')) {
-          input.setAttribute('placeholder', '请输入用户名或邮箱');
-        }
-=======
         input.setAttribute('placeholder', '用户名/邮箱');
->>>>>>> d92f08e1d9663834e4742c3ab025c808d5af06fa
       } else if (n.indexOf('pass') !== -1) {
         label.textContent = '密码';
         if (!input.getAttribute('placeholder')) {
@@ -1342,5 +1332,4 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
     }
   }
 }
-
 ?>
