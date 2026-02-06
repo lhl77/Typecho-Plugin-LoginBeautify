@@ -115,12 +115,6 @@
 |:---:|:---:|
 | ![配置页面](docs/images/settings-config.png) | ![实时预览](docs/images/settings-preview.png) |
 
-### 移动端适配
-
-| 手机端亮色 | 手机端暗色 |
-|:---:|:---:|
-| ![移动端亮色](docs/images/mobile-light.png) | ![移动端暗色](docs/images/mobile-dark.png) |
-
 ## ❓ 常见问题
 
 <details>
