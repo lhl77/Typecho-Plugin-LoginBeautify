@@ -1342,8 +1342,5 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
     }
   }
 }
-<<<<<<< HEAD
+
 ?>
-=======
-?>
->>>>>>> d92f08e1d9663834e4742c3ab025c808d5af06fa
