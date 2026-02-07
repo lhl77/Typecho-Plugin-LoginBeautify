@@ -4,7 +4,7 @@
  * 
  * @package LoginBeautify
  * @author LHL
- * @version 1.0.0
+ * @version 1.0.1
  * @link https://github.com/lhl77/Typecho-Plugin-LoginBeautify
  */
 
@@ -587,7 +587,7 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
    */
   private static function checkUpdate()
   {
-    $currentVersion = 'v1.0.0';
+    $currentVersion = 'v1.0.1';
     $result = array(
       'checked' => false,
       'hasUpdate' => false,
@@ -1057,7 +1057,7 @@ class LoginBeautify_Plugin implements Typecho_Plugin_Interface
     height: 48px;
     border-radius: 50%;
     border: 1px solid var(--lb-outline);
-    background: var(--lb-surface2);
+    background: var(--lb-surface-alpha);
     color: var(--lb-on-surface);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
