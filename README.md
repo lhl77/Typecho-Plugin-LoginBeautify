@@ -1,3 +1,5 @@
+# 项目升级 Admin Beautify, 请前往 [lhl77/Typecho-Plugin-AdminBeautify](https://github.com/lhl77/Typecho-Plugin-AdminBeautify)
+
 <div align="center">
 
 # 🎨 Login Beautify
